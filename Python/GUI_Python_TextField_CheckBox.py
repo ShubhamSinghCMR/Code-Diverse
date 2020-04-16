@@ -1,0 +1,17 @@
+def show_entry_fields():
+   print("First Name: %s\nLast Name: %s" % (e1.get(), e2.get()))
+
+master = Tk()
+Label(master, text="First Name").grid(row=3)
+Label(master, text="Last Name").grid(row=4)
+e1 = Entry(master)
+e2 = Entry(master)
+e1.grid(row=3, column=1)
+e2.grid(row=4, column=1)
+var1 = IntVar()
+Checkbutton(master, text="Enable comment", variable=var1).grid(row=0, sticky=W)
+var2 = IntVar()
+Checkbutton(master, text="Enable upvote", variable=var2).grid(row=1, sticky=W)
+Button(master, text='Quit', command=master.quit).grid(row=5, column=1, sticky=W, pady=4)
+Button(master, text='Show', command=show_entry_fields).grid(row=5, column=0, sticky=W, pady=4)
+mainloop()
