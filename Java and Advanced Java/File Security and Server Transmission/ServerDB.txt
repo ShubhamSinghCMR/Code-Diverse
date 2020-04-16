@@ -1,0 +1,3 @@
+Database Name: db
+Table Name:servertab
+Attributes: fname, lat, version,creationtim (All VARCHAR)
