@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+<catalog>
+	<cd>
+		<firstname>Sutirtha</firstname>
+		<lastname>Chakraborty</lastname>
+		<country>India</country>
+		 
+	</cd>
+<cd>
+		<firstname>Rahul</firstname>
+		<lastname>Garpinde</lastname>
+		<country>India</country>
+		 
+	</cd>
+<cd>
+		<firstname>Mrinmoy</firstname>
+		<lastname>Boruah</lastname>
+		<country>India</country>
+		 
+	</cd>
+<cd>
+		<firstname>Ujjal</firstname>
+		<lastname>Mandal</lastname>
+		<country>India</country>
+		 
+	</cd>
+	 
+</catalog>

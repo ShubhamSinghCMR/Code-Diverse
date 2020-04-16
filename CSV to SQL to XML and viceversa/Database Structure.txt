@@ -1,0 +1,3 @@
+Databse name=> a8db
+table=> book
+columns=> author, date, name (All varchar)
