@@ -1,2 +1,2 @@
-# Some-Basic-Codes
-This repository contains some basic codes which can be used as per need in any program
+# Code-Diverse
+This repository contains some codes belonging to different programming languages which can be used as required in any program
