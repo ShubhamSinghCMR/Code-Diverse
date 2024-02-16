@@ -1,0 +1,3 @@
+a. Send SMS using Android.
+b. Animation application in Android.
+c. Use the camera, take photos and send a photo over bluetooth .

@@ -1,0 +1,3 @@
+database name:mydb
+table:admin
+name email pass gender sq ans
