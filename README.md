@@ -1,2 +1,2 @@
 # Code-Diverse
-This repository contains codes belonging to different programming languages which can be used as required in any program
+Here, you'll discover a versatile collection of code snippets spanning various programming languages. These snippets are crafted to be easily integrated into your projects, empowering you to efficiently address diverse programming needs across different applications.
