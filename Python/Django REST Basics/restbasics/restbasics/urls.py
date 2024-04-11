@@ -16,7 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import include
+
+from restapp import urls as restapp_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('employees/',include(restapp_urls, namespace='restapp'))
 ]
